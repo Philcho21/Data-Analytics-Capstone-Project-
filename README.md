@@ -1,11 +1,11 @@
 **Data Sources And the main focus of the project**
 
-**Job postings**\
+**Job postings**\n
 Training portals
 Developer surveys, such as the latest Stack Overflow Developer Survey
 After collecting sufficient data, you will analyze it to identify key insights and trends. Some of the trends you will explore include:
 
-Which programming languages are most in demand?
+Which programming languages are most in demand?\n
 Which database technologies are currently most sought after?
 Which Integrated Development Environments (IDEs) are the most popular?
 You will begin by scraping internet websites, accessing APIs, and working with datasets like the latest Stack Overflow Developer Survey in various formats such as .csv files, Excel sheets, and databases.
