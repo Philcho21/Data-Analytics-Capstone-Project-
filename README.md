@@ -1,26 +1,26 @@
 **Data Sources And the main focus of the project**
 
 **Job postings**<br>
-Training portals<b>
+Training portals<br>
 Developer surveys, such as the latest Stack Overflow Developer Survey<br>
 After collecting sufficient data, you will analyze it to identify key insights and trends. Some of the trends you will explore include:
 
 Which programming languages are most in demand?<br>
-Which database technologies are currently most sought after?
-Which Integrated Development Environments (IDEs) are the most popular?
-You will begin by scraping internet websites, accessing APIs, and working with datasets like the latest Stack Overflow Developer Survey in various formats such as .csv files, Excel sheets, and databases.
+Which database technologies are currently most sought after?<br>
+Which Integrated Development Environments (IDEs) are the most popular?<br>
+You will begin by scraping internet websites, accessing APIs, and working with datasets like the latest Stack Overflow Developer Survey in various formats such as .csv files, Excel sheets, and databases.<br>
 After gathering the data, you will apply data-wrangling techniques to prepare the data for analysis.
 
 Once the data is prepared, you will employ statistical techniques to analyze the data, identifying key trends and insights. You will then synthesize your findings using IBM Cognos Analytics to create a dashboard that visualizes the results. Finally, you will share your insights through a presentation, showcasing your storytelling and data analysis skills.
 
-**Evaluation:**
+**Evaluation:**<br>
 Throughout the course, you will be evaluated using quizzes in each module as well as through the final project presentation.
 
-**Dataset Source**
+**Dataset Source**<br>
 The dataset is available as part of the Stack Overflow Developer Survey under an Open Database License (ODbL). You can access the full data set at this link.
 
-**Subset Information**
-For this lab, you will use a subset of the full data set, which contains several thousand responses. 
+**Subset Information**<br>
+For this lab, you will use a subset of the full data set, which contains several thousand responses.<> 
 **Please note that the conclusions drawn from this subset may not fully reflect the global developer community.**
 
 **Column Description for Survey Data**
@@ -78,9 +78,8 @@ For this lab, you will use a subset of the full data set, which contains several
 | **JobSat**                  | How satisfied are you with your current job? |
 
 
-**Summary**
-After completing this lab, you will be able to:
-
+**Summary**<br>
+After completing this lab, you will be able to:<br>
 Recognize the dataset is a valuable resource for analyzing trends in software development.
 
 Gain insights into the most popular programming languages, platforms, and frameworks, as well as the challenges and opportunities facing developers today by exploring the survey data.
