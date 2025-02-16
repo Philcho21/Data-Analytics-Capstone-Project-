@@ -1,11 +1,6 @@
-**Introduction**
-You have recently been hired as a Data Analyst by a global IT and business consulting firm renowned for its expertise in IT solutions and highly experienced consultants. To stay competitive in the rapidly evolving technology landscape, your organization regularly analyzes data to identify emerging and future skill requirements.
+**Data Sources And the main focus of the project**
 
-**Roles and responsibilities:**
-As a Data Analyst, you will contribute to this initiative by collecting data from diverse sources and identifying trends for this year's report on in-demand skills. One key source for your analysis will be the latest Developer Survey, a comprehensive dataset offering insights into the global developer community.
-Your initial task is to gather data on the most sought-after programming skills from various sources, including:
-
-**Job postings**
+**Job postings**\
 Training portals
 Developer surveys, such as the latest Stack Overflow Developer Survey
 After collecting sufficient data, you will analyze it to identify key insights and trends. Some of the trends you will explore include:
