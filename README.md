@@ -34,7 +34,15 @@ Data-Analytics-Capstone-Project-/
 │   ├── Lab 11 Finding How The Data is Distributed.ipynb
 │   └── Lab 13 Finding Correlation.ipynb
 ├── Visualization/
-│   ├── visualization and charting notebooks
+│   ├── Lab  - Data Visualization-v1.ipynb
+│   ├── Lab 14 - Data Visualization-v1.ipynb
+│   ├── Lab 15 -Box Plot-v1.ipynb
+│   ├── Lab 16 -Scatter Plot-v1 copy.ipynb
+│   ├── Lab 17 - Bubble Plots-v1.ipynb
+│   ├── Lab 18 Pie Charts.ipynb
+│   ├── Lab 19 Stacked Charts.ipynb
+│   ├── Lab 20 - Line Charts-v1.ipynb
+│   ├── Lab 21 - Bar-v1.ipynb
 │   └── Dashboard by Cognos Analytics.pdf
 ├── Reporting/
 │   └── Presentation.pdf
